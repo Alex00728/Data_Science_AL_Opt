@@ -1,3 +1,1 @@
-# Resolución Tareas Algebra Lineal
-
-TODO
+# Trabajos Algebra Lineal y Optimización para Data Science
